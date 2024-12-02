@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React, { useRef } from "react"; 
 import "./components/css/AreaDaLeitura.css";
 import AreaDaLeitura from "./components/Inicio";
 import BoxLivros from "./components/Categorias";
