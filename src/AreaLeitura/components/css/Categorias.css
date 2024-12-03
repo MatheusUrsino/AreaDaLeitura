@@ -1,10 +1,11 @@
 /* Estilos para o texto exibido no card */
 .textoDoCard {
+  font-weight: 600;
     color: #006182; /* Cor do texto */
-    width: 40vw; /* Largura da caixa de texto */
-    font-size: 1.4vw; /* Tamanho da fonte baseado na largura da viewport */
+    width: 48vw; /* Largura da caixa de texto */
+    font-size: 1.6vw; /* Tamanho da fonte baseado na largura da viewport */
     padding: 2vw; /* Espaçamento interno da caixa de texto */
-    border-radius: 0 10vh 10vh 0; /* Arredondamento dos cantos */
+    border-radius: 0 5vh 5vh 0; /* Arredondamento dos cantos */
     background-color: #d9d9d9; /* Cor de fundo do card */
     box-shadow: 0.2vw 1vw 1vw rgba(0, 0, 0, 0.537); /* Sombra para elevação */
   }
@@ -15,8 +16,8 @@
     font-weight: 700; /* Negrito */
     display: flex; /* Flexbox para alinhar o conteúdo */
     justify-content: center; /* Centraliza horizontalmente */
-    font-size: 2vw; /* Tamanho da fonte relativo à viewport */
-    margin: 6vw 0; /* Margem superior e inferior */
+    font-size: 3vw; /* Tamanho da fonte relativo à viewport */
+    margin: 7vw; /* Margem superior e inferior */
   }
   
   /* Estilos para a caixa de livros */
